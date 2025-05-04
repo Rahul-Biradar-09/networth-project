@@ -112,5 +112,5 @@ Use Flexbox/Grid to manage layout.
 
 -------PROJECT LINK-------
 
-LINK:- https://credikhaata-project.vercel.app/login
+LINK:- https://credikhaata-project.vercel.app
 
