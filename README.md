@@ -114,3 +114,17 @@ Use Flexbox/Grid to manage layout.
 
 LINK:- https://credikhaata-project.vercel.app
 
+
+
+----------IMPORTANT NOTE-------------
+---------DEPLOYMENT ISSUE-----------
+
+
+If the link is not opening or showing 404 error in the browser, kindly copy and paste the Url in another tab
+
+kindly paste this in URL section https://credikhaata-project.vercel.app
+
+Do not paste this in URL Section [https://credikhaata-project.vercel.app/login] as it will again show 404 error paste above in Url section and run it...
+
+
+----------THANK YOU------------
