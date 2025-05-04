@@ -1,0 +1,38 @@
+@import "tailwindcss";
+/* Global Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+.container {
+  padding: 20px;
+}
+
+.navbar {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+}
+
+.navbar a:hover {
+  background-color: #444;
+}
+
+.error {
+  color: red;
+  font-size: 12px;
+}
+
+  
